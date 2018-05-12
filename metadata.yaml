@@ -1,0 +1,68 @@
+_repo: Mugbyn-risteys_15499
+_version: 0.1.0
+alternative_title: Mugby junction. Finnish
+contributor:
+  contributors:
+  - agent_name: Halliday, Andrew
+    gutenberg_agent_id: '33041'
+    url: http://www.gutenberg.org/2009/agents/33041
+  - agent_name: Stretton, Hesba
+    alias: Smith, Sarah
+    birthdate: 1832
+    deathdate: 1911
+    gutenberg_agent_id: '2440'
+    url: http://www.gutenberg.org/2009/agents/2440
+    wikipedia: http://en.wikipedia.org/wiki/Hesba_Stretton
+  - agent_name: Edwards, Amelia Ann Blanford
+    aliases:
+    - Edwards, Amelia B. (Amelia Blanford)
+    - Edwards, Amelia Blanford
+    birthdate: 1831
+    deathdate: 1892
+    gutenberg_agent_id: '2716'
+    url: http://www.gutenberg.org/2009/agents/2716
+    wikipedia: http://en.wikipedia.org/wiki/Amelia_Edwards
+  - agent_name: Collins, Charles
+    gutenberg_agent_id: '33042'
+    url: http://www.gutenberg.org/2009/agents/33042
+  translator:
+    agent_name: Krohn, Julius
+    aliases:
+    - Krohn, Gyula
+    - Krohn, J. (Julius)
+    - Krohn, Julius Leopold Fredrik
+    - Suonio
+    birthdate: 1835
+    deathdate: 1888
+    gutenberg_agent_id: '4607'
+    url: http://www.gutenberg.org/2009/agents/4607
+    wikipedia: http://fi.wikipedia.org/wiki/Julius_Krohn
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Dickens, Charles John Huffam
+    - Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_issued: '2005-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15499'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroad stations -- England -- London -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Psychological fiction'
+title: Mugbyn risteys
+url: http://www.gutenberg.org/ebooks/15499
